@@ -108,18 +108,23 @@ The project focuses on designing and building software to operate a gym network.
 ![Article management on the home page](https://github.com/jakubdziadkowiec17/eGymWebApp/blob/master/Photos/18.png)
 
 *Menu bar (mobile view):*
+
 ![Menu bar (mobile view)](https://github.com/jakubdziadkowiec17/eGymWebApp/blob/master/Photos/20.png)
 
 *Creating an employee by the administrator (mobile view):*
+
 ![Creating an employee by the administrator (mobile view)](https://github.com/jakubdziadkowiec17/eGymWebApp/blob/master/Photos/21.png)
 
 *Creating a task for an employee by the administrator (mobile view):*
+
 ![Creating a task for an employee by the administrator (mobile view)](https://github.com/jakubdziadkowiec17/eGymWebApp/blob/master/Photos/22.png)
 
 *Password reset (mobile view):*
+
 ![Password reset (mobile view)](https://github.com/jakubdziadkowiec17/eGymWebApp/blob/master/Photos/23.png)
 
 *Ticket editing by the administrator (mobile view):*
+
 ![Ticket editing by the administrator (mobile view)](https://github.com/jakubdziadkowiec17/eGymWebApp/blob/master/Photos/24.png)
 
 *Log system recording all activities in the system:*
